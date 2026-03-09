@@ -1,0 +1,21 @@
+{
+  "id": "av-camera-mirror",
+  "title": "A/V Camera Mirror",
+  "description": "Adds a button to the A/V camera controls to mirror the camera feed.",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "13"
+  },
+  "authors": [
+    {
+      "name": "Zentharim"
+    }
+  ],
+  "scripts": [
+    "scripts/main.js"
+  ],
+  "styles": [
+    "styles/style.css"
+  ]
+}
